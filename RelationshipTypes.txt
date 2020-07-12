@@ -5,6 +5,3 @@ Lookup relationship
 Junction object type
 
 edited
-beans
-pizza 
-arvi
